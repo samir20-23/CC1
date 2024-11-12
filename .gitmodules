@@ -1,0 +1,6 @@
+[submodule "mobile_submodules_cc1"]
+	path = mobile_submodules_cc1
+	url = https://github.com/samir20-23/mobile_submodules_cc1.git
+[submodule "tuto_1"]
+	path = tuto_1
+	url = https://github.com/samir20-23/mobile_submodules_cc1.git
